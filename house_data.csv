@@ -1,0 +1,9 @@
+area,bedrooms,bathrooms,location,price
+1000,2,1,Urban,45
+1500,3,2,Urban,75
+1200,2,2,Suburban,60
+2000,4,3,Urban,120
+850,2,1,Rural,30
+950,2,1,Suburban,35
+1800,3,2,Suburban,95
+1100,2,2,Rural,40
