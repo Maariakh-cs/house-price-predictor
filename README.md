@@ -51,8 +51,9 @@ house-price-predictor/
     ```bash  
     streamlit run app.py
 
+---
 
-🧠 How It Works
+## 🧠 How It Works
 Input features: area, bedrooms, bathrooms, and location
 The train_model.py script uses a pipeline with:
     OneHotEncoder for location
@@ -60,7 +61,9 @@ The train_model.py script uses a pipeline with:
 The trained model is saved as house_model.pkl
 The Streamlit app (app.py) loads the model and provides a simple web interface to predict house prices in ₹ Lakhs
 
-🙋‍♀️ Author
+---
+
+## 🙋‍♀️ Author
 Maaria Khan
 Final Year Computer Science Engineering Student
 🔗www.linkedin.com/in/maariak-cs
