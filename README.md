@@ -66,5 +66,5 @@ The Streamlit app (app.py) loads the model and provides a simple web interface t
 ## 🙋‍♀️ Author
 Maaria Khan
 Final Year Computer Science Engineering Student
-🔗www.linkedin.com/in/maariak-cs
+🔗www.linkedin.com/in/maariakh-cs
 
